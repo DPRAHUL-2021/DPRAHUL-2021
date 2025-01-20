@@ -1,4 +1,5 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Pranav Rahul Digudadi</h1>
+<h3 align="center">A Developer Turning Ideas into Interactive Realities</h3>
 👨‍💻 Full Stack Web Developer from India<br>⚡ Expertise in building scalable and efficient web applications<br>🔧 Proficient in ReactJS, NextJS, NodeJS, ExpressJS, and Tailwind CSS<br>💡 Passionate about Data Structures and Algorithms (DSA) and continuous problem-solving<br>🎨 Experienced in UI/UX Design, creating user-friendly interfaces with Figma<br>🤝 Enjoy contributing to developer communities and collaborating on innovative projects
 
 
@@ -18,6 +19,3 @@
 ![](https://github-contributor-stats.vercel.app/api?username=DPRAHUL-2021&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DPRAHUL-2021&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
